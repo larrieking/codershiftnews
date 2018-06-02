@@ -1,0 +1,7 @@
+com\codershift\entity\Punch_.class
+com\crownexponent\codershiftnews\bean\PunchFacade.class
+service\ApplicationConfig.class
+service\PunchFacadeREST.class
+com\codershift\ejb\ReadTimerr.class
+com\codershift\entity\Punch.class
+com\crownexponent\codershiftnews\bean\AbstractFacade.class
